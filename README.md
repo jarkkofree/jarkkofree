@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jarkkofree
 - 👀 I’m interested in game and simulation development
-- 🌱 I’m currently learning Rust and Bevy
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on games and game engines
 - 📫 How to reach me: jarkkofree@icloud.com
 
